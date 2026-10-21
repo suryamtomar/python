@@ -9,6 +9,6 @@ My journey of learning Python from the fundamentals to advanced topics, includin
 - **Libraries:** NumPy, Pandas, Matplotlib, Requests, Flask/FastAPI
 
 ## Goal
-Learn by building: code every day, commit every day.
+Learn by building: code every day, commit every day
 
 By [Suryam](https://suryamtomar.in)
