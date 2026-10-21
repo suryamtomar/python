@@ -1,5 +1,5 @@
 print( "hello world")
 print("say hello ")
-a=7
+a=8
 b=6
-print(a+b)
+print(a*b)
