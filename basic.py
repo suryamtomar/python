@@ -1,5 +1,5 @@
 print( "hello world")
-print("say hello ")
+print("say hell ")
 a=8
 b=61
 print(a*b)
