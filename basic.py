@@ -1,4 +1,4 @@
-print( "hello world")
+print( "hello")
 print("say hello ")
 a=8
 b=61
